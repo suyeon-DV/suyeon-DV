@@ -7,6 +7,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyeon-DV&repo=13-stayWefolio-frontend&theme=buefy)](https://github.com/suyeon-DV/13-stayWefolio-frontend)
 
 </br>![ecila7290's github stats](https://github-readme-stats.vercel.app/api?username=suyeon-dv&show_icons=true&theme=buefy)
-</br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon-DV&layout=compact)](https://github.com/suyeon-DV/github-readme-stats)
+</br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon-DV&layout=compact&theme=buefy)](https://github.com/suyeon-DV/github-readme-stats)
 
 
