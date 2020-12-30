@@ -8,7 +8,7 @@
 ### I'm happiest when we're all happy together!
 
 - 🔭 I’m currently working on previous projects refactoring
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Redux
 - 📫 How to reach me: suyeon.dv@gmail.com
 - 📗 I blog at https://velog.io/@winney_77
 - ⚡ Fun fact: I like coffee, but I'm not good at it! 
