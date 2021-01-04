@@ -4,8 +4,6 @@
 ![profile preview](https://komarev.com/ghpvc/?username=suyeon-DV)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeon-DV&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### I'm happiest when we're all happy together!
-
 - 🔭 I’m currently working on previous projects refactoring
 - 🌱 I’m currently learning Redux
 - 📫 How to reach me: suyeon.dv@gmail.com
