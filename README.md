@@ -12,7 +12,6 @@
 
 ## Recent Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyeon-DV&repo=internship)](https://github.com/suyeon-DV/internship)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyeon-DV&repo=13-MyFakeTrip-frontend)](https://github.com/suyeon-DV/13-MyFakeTrip-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyeon-DV&repo=13-stayWefolio-frontend)](https://github.com/suyeon-DV/13-stayWefolio-frontend)
 
