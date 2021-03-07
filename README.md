@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Redux and typescript
 - 📫 How to reach me: suyeon.dv@gmail.com
 - 📗 I blog at https://velog.io/@winney_77
-- ⚡ Fun fact: I like coffee, but I'm not good at it! 
+- ⚡ Fun fact: I like coffee. I like decaffeinated more!
 
 ## Recent Projects
 
