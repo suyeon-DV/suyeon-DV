@@ -1,4 +1,4 @@
-# Let's talk together.
+# Steady better
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@winney_77/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:suyeon.dv@gmail.com)
 ![profile preview](https://komarev.com/ghpvc/?username=suyeon-DV)
