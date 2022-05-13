@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeon-DV&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🔭 I’m currently working on blog.
-- 🌱 I’m currently learning Redux and typescript
+- 🌱 I’m currently learning Next.js and typescript
 - 📫 How to reach me: suyeon.dv@gmail.com
 - 📗 I blog at https://velog.io/@winney_77
 - ⚡ Fun fact: I like coffee. I like decaffeinated more!
