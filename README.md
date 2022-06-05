@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on blog.
 - 🌱 I’m currently learning Next.js and typescript
 - 📫 How to reach me: suyeon.dv@gmail.com
-- ⚡ Fun fact: I like coffee. I like decaffeinated more!
 
 ## Recent Projects
 
